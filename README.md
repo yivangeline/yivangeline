@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on McMaster Health and Radiation Physics
-- 🌱 I’m currently learning Health Physics
+- 🌱 I’m currently a first year master student and learning Health Physics
 - 👯 I’m looking to collaborate on Coding
 - 🤔 I’m looking for help with my coding
 - 💬 Ask me about anything 
